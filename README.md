@@ -7,7 +7,7 @@
 ---
 
 ## 📦 包信息
-**包名**：`com.le0der.ui-adjust`
+**包名**：`com.le0der.adjust`
 
 **最低支持 Unity 版本**：`2020.3` 
 
@@ -41,7 +41,7 @@
 
 4. 输入：
 ```arduino
-https://github.com/le0der-tools/com.le0der.ui-adjust.git
+https://github.com/le0der-tools/com.le0der.adjust.git
 ```
 ### ✅ 方法 2：使用 Git URL 添加依赖
 
@@ -50,7 +50,7 @@ https://github.com/le0der-tools/com.le0der.ui-adjust.git
 3. 在 `"dependencies"` 节点中添加如下内容：
 
 ```json
-"com.le0der.singleton": "https://github.com/le0der-tools/com.le0der.ui-adjust.git"
+"com.le0der.singleton": "https://github.com/le0der-tools/com.le0der.adjust.git"
 ```
 
 ## 🧩 使用方法
@@ -68,6 +68,10 @@ https://github.com/le0der-tools/com.le0der.ui-adjust.git
      - `WidthOrHeight`：选择最小缩放值，保持完整显示
 
 3. 示例场景说明
+
+    	1. MixAdjustSample：UI适配，安全区适配，相机显示适配的综合示例
+    	2. CameraAdjustSample：相机显示范围的适配工具
+    	3. SafeAreaSample：各种类型的安全区适配
 
    ```scss
    Canvas
