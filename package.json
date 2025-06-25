@@ -1,0 +1,26 @@
+{
+  "name": "com.le0der.ui-adjust",
+  "version": "1.0.0",
+  "displayName": "UI Adjust Tools",
+  "description": "一个轻量的UI适配工具，旨在简化跨设备和跨平台开发中不同分辨率下的适配问题。",
+  "unity": "2022.3",
+  "author": {
+    "name": "le0der",
+    "email": "le0der@163.com",
+    "url": "https://le0der.top"
+  },
+  "dependencies": {},
+  "keywords": [
+    "ui",
+    "tools",
+    "unity"
+  ],
+  "license": "Apache-2.0",
+  "licensesUrl": "https://github.com/le0der-tools/com.le0der.ui-adjust?tab=Apache-2.0-1-ov-file",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/le0der-tools/com.le0der.ui-adjust.git"
+  },
+  "documentationUrl": "https://github.com/le0der-tools/com.le0der.ui-adjust.git",
+  "changelogUrl": "https://github.com/le0der-tools/com.le0der.ui-adjust/blob/main/CHANGELOG.md"
+}
