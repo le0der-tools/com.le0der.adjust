@@ -11,16 +11,16 @@
   },
   "dependencies": {},
   "keywords": [
-    "ui",
+    "adjust",
     "tools",
     "unity"
   ],
   "license": "Apache-2.0",
-  "licensesUrl": "https://github.com/le0der-tools/com.le0der.ui-adjust?tab=Apache-2.0-1-ov-file",
+  "licensesUrl": "https://github.com/le0der-tools/com.le0der.adjust?tab=Apache-2.0-1-ov-file",
   "repository": {
     "type": "git",
-    "url": "https://github.com/le0der-tools/com.le0der.ui-adjust.git"
+    "url": "https://github.com/le0der-tools/com.le0der.adjust.git"
   },
-  "documentationUrl": "https://github.com/le0der-tools/com.le0der.ui-adjust.git",
-  "changelogUrl": "https://github.com/le0der-tools/com.le0der.ui-adjust/blob/main/CHANGELOG.md"
+  "documentationUrl": "https://github.com/le0der-tools/com.le0der.adjust.git",
+  "changelogUrl": "https://github.com/le0der-tools/com.le0der.adjust/blob/main/CHANGELOG.md"
 }
